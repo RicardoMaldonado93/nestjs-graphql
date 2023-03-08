@@ -1,0 +1,3 @@
+[submodule "anylist"]
+	path = anylist
+	url = git@github.com-RicardoMaldonado93:RicardoMaldonado93/anylist-graphql.git
